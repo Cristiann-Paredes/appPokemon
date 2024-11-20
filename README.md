@@ -67,7 +67,7 @@ Todo esto es necesario para que pueda funcionar correctamente
 ![{2AAEF621-DF68-4065-A429-47D02757C680}](https://github.com/user-attachments/assets/95deb879-9ab7-42de-89dd-dcfa74b865a4)
 ![{DE508026-0D18-48A0-A7AE-AD93C44FA830}](https://github.com/user-attachments/assets/2ffcbbff-2115-44e0-877a-ffa24a1bc50d)
 
-## Scarlett Luna- Pages-Services
+## Scarlett Luna- Pages
 
 ## Pages
 
@@ -91,8 +91,21 @@ Detalles del Pokémon
 Indicador de carga 
 ![{77B605D8-5CBF-49DB-9A74-4FDB5BB492F3}](https://github.com/user-attachments/assets/e00947eb-fafe-4e2c-80c7-da4d9941c8e4)
 
+### pokemon-list.page.scss
+![{24A6F514-7EC9-4624-B66F-322144925C4F}](https://github.com/user-attachments/assets/464f9961-1b02-4d16-9c07-0f5621fec812)
+![{DF1934F4-0AFB-4945-AD3C-6822522A005E}](https://github.com/user-attachments/assets/b48c2b88-8c2e-433f-afd5-2dc359ec69ca)
+![{C1497596-4771-4C58-8637-939894096D10}](https://github.com/user-attachments/assets/57b72808-1c30-4658-b323-870b4ee3550a)
 
+### pokemon-list.page.spec.ts
+![{7A378F8E-639F-4BDA-B455-99034EF47FCC}](https://github.com/user-attachments/assets/ed58bb73-caeb-4597-bc2f-4ce91552476a)
 
+### pokemon-list.page.ts
+![{2D746C73-E7F2-4AAF-88C6-AE0E2D378099}](https://github.com/user-attachments/assets/2b796160-5a29-45b6-839a-4e7a39ec0e7d)
+![{7F2CB800-8406-40B2-900C-AE568376CF0C}](https://github.com/user-attachments/assets/07e60f81-e9ec-4ca8-9802-dd43185251a0)
+![{D67FD4BF-E41C-4CA0-8AA7-F1B0D0D1CE5A}](https://github.com/user-attachments/assets/e9999904-bea3-4732-b5f3-106af95cf126)
+![{177A0CCA-7FC3-458F-9302-698E070ADEC5}](https://github.com/user-attachments/assets/5c84b98f-b015-4ab8-a945-3ffff8015db1)
+![{C408A53D-DB26-449F-8C80-82C99F9FE295}](https://github.com/user-attachments/assets/6dcc0a8a-fbb1-4fcc-834c-5567cdef4899)
+![{FB2441F8-E5DB-46FA-BBB5-F0EC259809FF}](https://github.com/user-attachments/assets/7991f87f-4713-4b32-9306-415d113b3757)
 
 
 
