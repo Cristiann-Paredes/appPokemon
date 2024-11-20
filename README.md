@@ -40,7 +40,6 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 
 ## Cristian Paredes- Home- Models- Readme
-
 # Home
 
 ## home-routing.module.ts
@@ -70,7 +69,6 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 ## Scarlett Luna- Pages
 # Pages
-
 ### pokemon-list-routing.module.ts
 ![{202B87AE-BAF5-4AEF-888A-F670D07FB402}](https://github.com/user-attachments/assets/8bf9e568-0bba-480b-85aa-a157ff7aa75a)
 
@@ -109,14 +107,45 @@ Indicador de carga
 
 
 
+# services
+##  David Vela
 
+## favorites.service.spec.ts
+![{41D422B6-D9F8-4777-9115-6379D101D398}](https://github.com/user-attachments/assets/41a0d706-7221-400c-8418-906f9bbdd713)
 
+## favorites.service.ts
+![{58AEC703-23E4-455C-937B-324C14E16480}](https://github.com/user-attachments/assets/9722d3c0-86c8-41aa-ab99-7fd2b1cc743d)
 
+## pokemon.service.spec.ts
+![{D7EFCD7D-1621-4D31-B7F8-51578DA0DC23}](https://github.com/user-attachments/assets/4b44b12a-1fcf-41ac-bd93-67c9e5bfe6bd)
 
+## pokemon.service.ts
+![{82DE338E-426E-424C-A3F7-4DB3F6FDCDD4}](https://github.com/user-attachments/assets/ca8e3a37-7ed1-4f05-98c9-686dd73ffe9c)
 
+# App 
 
+## app-routing.module.ts
+![{C712F9DF-CFD4-4972-9E15-C5BE4C313F6D}](https://github.com/user-attachments/assets/df7b7a75-0a5b-4c40-a56f-397ca7c8f7a6)
 
+## app.component.html
+![{761C0C48-33D2-4EA7-9E3A-3847202C85A6}](https://github.com/user-attachments/assets/e9f10818-da7a-47f2-831f-3392f9358d5a)
 
+## app.component.ts
+![{546251E9-7C36-4453-BD0A-DA310AB642B9}](https://github.com/user-attachments/assets/05963475-2f2f-4fd2-b2c7-414470d45852)
+
+## app.component
+![{03C6C9AD-2F58-4E32-BE31-FD5CBA7EEE36}](https://github.com/user-attachments/assets/6bc5c9a4-2c6f-44cf-9384-07b1c766c1de)
+
+## app.module.ts
+![{A49BBAC6-83E1-4281-8F58-BB13CC3913E4}](https://github.com/user-attachments/assets/057e7b2f-5722-4ed4-9067-928e9a9cc535)
+
+# API
+
+![{398638DB-A5D8-4CC7-90A1-3A6C2B48D102}](https://github.com/user-attachments/assets/d2a3fd52-b9be-4cd3-8e46-4a591b5f99b7)
+![{7B7DE3DF-B184-4031-9D91-07B2CA4959C4}](https://github.com/user-attachments/assets/445e7758-0914-4c19-a1ef-5432c260ea5f)
+![{397A15B1-C2C6-4797-941E-26807C630E15}](https://github.com/user-attachments/assets/c5567812-9703-464d-815f-ed1627d19a2d)
+![{0B8B66B8-2DC3-4523-8061-8D3BD163B021}](https://github.com/user-attachments/assets/ad6f9e59-954f-4c19-a2e1-e877bbb9f7ee)
+![{82AA7B56-1731-440B-9A90-43D112EFEAC0}](https://github.com/user-attachments/assets/0f5840bc-6f1a-4b9f-ae8a-2fb96e385489)
 
 
 
