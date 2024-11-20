@@ -41,7 +41,8 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 ## Cristian Paredes- Home- Models- Readme
 
-## home-routing.module.ts
+# Home
+### home-routing.module.ts
 ![{FBCAB3DD-DD98-424B-9F20-BB5A7FA26772}](https://github.com/user-attachments/assets/986ec4dc-c734-4d1c-b81c-ab09d1b89278)
 
 ## home.module.ts
@@ -59,6 +60,7 @@ Todo esto es necesario para que pueda funcionar correctamente
 ## home.page.ts
 ![{861948D9-9D90-40BD-8D4D-E2895093C2C0}](https://github.com/user-attachments/assets/8e204538-0d1a-49c8-b9c2-edc5632add3b)
 
+# Models
 
 
 
