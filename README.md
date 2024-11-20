@@ -1,4 +1,3 @@
-# appPokemon
 
 # Consumo de API's con ionic
 
